@@ -1,5 +1,3 @@
-[![<ORG_NAME>](https://circleci.com/gh/MRazaKazmi/Udacity-DevOps-Project4.svg?style=svg)]([<LINK>](https://app.circleci.com/pipelines/github/MRazaKazmi/Udacity-DevOps-Project4?filter=all))
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API.
